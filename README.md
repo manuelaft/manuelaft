@@ -40,22 +40,5 @@ Minhas outras redes sociais:
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    width="48%"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=manuelaft&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height= 180
-      width="48%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelaft&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=4" 
-  />
-
-</p>
-
+| <a href="https://github-readme-stats.vercel.app/api?username=manuelaft&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"><img align="center" src="https://github-readme-stats.vercel.app/api?username=manuelaft&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Manuela's github stats" /></a> | <a href="https://github.com/manuelaft/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelaft&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- |
