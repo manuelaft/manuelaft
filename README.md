@@ -1,12 +1,10 @@
-# 👩🏻‍💻 Manuela Trindade
+# Oi, tudo bem? 👋🏻
 
-**`Aspirante a Desenvolvedora`**
+**`👩🏻‍💻 Desenvolvedora Backend`**
 
-Olá, tenho 18 anos e sou natural de Goiás. Sempre fui curiosa sobre tecnologia e, aos 17 anos, comecei a estudar por conta própria minha primeira linguagem de programação. Hoje, curso Engenharia de Software na UniEvangélica de Goiás. Sou extremamente apaixonada por programação e estou sempre buscando evoluir na área.
+### Sobre mim
 
-Tenho inglês quase como minha língua nativa e, por ser uma pessoa "curso-compulsória", estou constantemente aprendendo coisas novas – faço desde cursos de culinária até os de Excel.
-
-Nas horas vagas, quando não estou estudando programação, tento administrar meu tempo entre uma quantidade surreal de hobbies, como natação, corrida, leitura, música, academia e até dança.
+Tenho 18 anos e sou natural de Goiás. Sempre fui curiosa sobre tecnologia e, aos 16 anos, comecei a estudar por conta própria minha primeira linguagem de programação. Hoje, curso Engenharia de Software na universidade UniEvangélica/GO. Sou extremamente apaixonada por programação e estou buscando sempre evoluir na área. No momento, estou concentrando meus estudos na linguagem Python e na área do backend. Meu objetivo é me tornar dev Fullstack.
 
 Minhas outras redes sociais:
 
@@ -46,7 +44,8 @@ Minhas outras redes sociais:
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="200"
+    width="42%"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=manuelaft&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
@@ -55,6 +54,7 @@ Minhas outras redes sociais:
       align="left" 
       alt="GitHub Stats" 
       height="190" 
+      width="50%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelaft&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=4" 
   />
 
