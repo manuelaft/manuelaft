@@ -4,7 +4,7 @@
 
 ### Sobre mim
 
-Tenho 18 anos e sou natural de Goiás. Sempre fui curiosa sobre tecnologia e, aos 16 anos, comecei a estudar por conta própria minha primeira linguagem de programação. Hoje, curso Engenharia de Software na universidade UniEvangélica/GO. Sou extremamente apaixonada por programação e estou buscando sempre evoluir na área. No momento, estou concentrando meus estudos na linguagem Python e na área do backend. Meu objetivo é me tornar dev Fullstack.
+Sempre fui curiosa sobre tecnologia e, aos 16 anos, comecei a estudar por conta própria minha primeira linguagem de programação. Hoje, curso Engenharia de Software na universidade UniEvangélica/GO. Sou extremamente apaixonada por programação e estou buscando sempre evoluir na área. No momento, estou concentrando meus estudos na linguagem Python e na área do backend. Meu objetivo é me tornar dev Fullstack.
 
 Minhas outras redes sociais:
 
@@ -52,6 +52,7 @@ Minhas outras redes sociais:
 <img 
       align="left" 
       alt="GitHub Stats" 
+      height= 100
       width="50%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelaft&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=4" 
   />
