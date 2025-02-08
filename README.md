@@ -44,7 +44,6 @@ Minhas outras redes sociais:
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200"
     width="42%"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=manuelaft&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
@@ -53,7 +52,6 @@ Minhas outras redes sociais:
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
       width="50%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelaft&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=4" 
   />
