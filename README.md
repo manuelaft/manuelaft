@@ -40,3 +40,11 @@ Minhas outras redes sociais:
 
 | <a href="https://github-readme-stats.vercel.app/api?username=manuelaft&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"><img align="center" src="https://github-readme-stats.vercel.app/api?username=manuelaft&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Manuela's github stats" /></a> | <a href="https://github.com/manuelaft/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelaft&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manuelaft/manuelaft/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manuelaft/manuelaft/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manuelaft/manuelaft/output/github-contribution-grid-snake.svg">
+</picture>
