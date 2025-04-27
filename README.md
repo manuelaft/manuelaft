@@ -13,8 +13,7 @@
 <p align="center">• Currently studying python language 📊
 
 #
-
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" src="https://github.com/user-attachments/assets/f81e06cb-bd6b-4702-9067-012fabbbe925">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -45,8 +44,12 @@
 <br/>
 <br/>
 
+<body>
 
-</div>
+  
+</body>
+<p align="center">&nbsp
+<p align="center">&nbsp   
 
 #
 
