@@ -8,7 +8,9 @@
 
 #
 
-<p align="center">Sempre fui curiosa sobre tecnologia e, aos 16 anos, comecei a estudar por conta própria minha primeira linguagem de programação. Hoje, curso Engenharia de Software na universidade UniEvangélica/GO. Sou extremamente apaixonada por programação e estou buscando sempre evoluir na área. No momento, estou concentrando meus estudos na linguagem Python e na área do backend. Meu objetivo é me tornar dev Fullstack.
+<p align="center">• Software Engineer student at Universidade Evangélica de Goiás 💻
+<p align="center">• Focused in Back-End development. 🐍
+<p align="center">• Currently studying python language 📊
 
 #
 
@@ -57,10 +59,6 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=manuelaft&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
   </a>
 </div>
-
----
-
-**`👩🏻‍💻 Desenvolvedora Backend`**
 
 #
 
